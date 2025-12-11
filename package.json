@@ -1,0 +1,12 @@
+{
+  "name": "kimi-ai-chat",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "crypto": "^1.0.1"
+  }
+}
